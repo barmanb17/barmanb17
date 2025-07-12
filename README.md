@@ -46,8 +46,8 @@ I'm a self-taught **Full Stack Web Developer** focused on building modern, secur
 
 ## 📫 Reach Out
 
-- 📧 Email: **bijoybarman.dev@gmail.com**
-- 🌐 Portfolio: [yourportfolio.vercel.app](https://yourportfolio.vercel.app) *(replace this)*
+- 📧 Email: **bijoybarman110@gmail.com**
+- 🌐 Portfolio: [yourportfolio.vercel.app](https://bijoybarman.me)
 - 🛠️ Open to freelance & collaboration!
 
 ---
