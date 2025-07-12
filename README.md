@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bijoy Barman
 
-I'm a self-taught **Full Stack Web Developer** focused on building modern, secure, and performant web applications. With over 6 months of intense practice and real-world projects, I specialize in building **full-stack apps** using **Next.js, Express.js, MongoDB**, and **Tailwind CSS**.
+I'm a self-taught **Full Stack Web Developer** focused on building modern, secure, and performant web applications. With over 1 year of intense practice and real-world projects, I specialize in building **full-stack apps** using **Next.js, Express.js, MongoDB**, and **Tailwind CSS**.
 
 ---
 
